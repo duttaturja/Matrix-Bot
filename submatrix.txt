@@ -1,0 +1,23 @@
+						
+                                                     SUB-MATRIX
+			    	                    ------------
+
+         A submatrix of A is a matrix formed by selecting from A a subset of the rows. and a subset of the columns. and   forming a new matrix by using those entries, in the same relative positions, that appear in both the rows and columns   of those selected.
+
+  Example : 
+
+
+                 1  2  3
+  If  A =        4  5  6
+                 7  8  9
+
+  Than,
+
+           A{1,2} =    1   2 
+                       4   5
+
+           A{2,2} =    2   3
+                       5   6 
+
+           A{2,3} =    4   5
+                       7   8

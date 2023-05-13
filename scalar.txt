@@ -1,0 +1,11 @@
+                                                  
+                                                   SCALER MATRIX
+			    	                   -------------
+
+         The scalar matrix is a square matrix having a constant value for all the elements of the principal diagonal,     and the other elements of the matrix are zero. The scalar matrix is obtained by the product of the identity matrix      with a numeric constant value.
+
+         For example :
+                             8   0   0
+                    A =      0   8   0
+                             0   0   8
+          Is a scalar matrix.

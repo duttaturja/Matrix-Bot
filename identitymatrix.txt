@@ -1,0 +1,18 @@
+                                              IDENTITY MATRIX
+			    	             -----------------
+
+         An identity matrix is a square matrix in which all the elements of principal diagonals are one, and all other    elements are zeros. It is denoted by the notation "In" or simply "I". If any matrix is multiplied with the identity     matrix, the result will be given matrix. The elements of the given matrix remain unchanged. In other words, if all the  main diagonal of a square matrix are 1's and rest all o's, it is called an identity matrix. 
+  For example
+
+  I1=[1]
+
+  2 x 2 Identity Matrix
+          1   0
+  I2=     0   1
+  This is also called the identity matrix of order 2.
+
+  3 x 3 Identity Matrix
+
+         1   0    0
+  I3=    0   1    0 
+         0   0    1

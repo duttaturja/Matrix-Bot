@@ -1,0 +1,23 @@
+						
+                                                SYMMETRIC MATRIX
+			    	               ------------------
+
+         A square matrix A which of size n × n is considered to be symmetric if and only if AT = A. Consider the given   matrix A, that is, a square matrix that is equal to the transposed form of that matrix, called a symmetric matrix.
+  This can be represented as: If A = [A(ij)]nxn is the symmetric matrix, then B(ij) = B(ji) for all i and j or 1 <= i <=  n, and 1 <= j <= n. Here,
+  ->    n is any natural number.
+  ->    B(ij) is an element at position (i, j) which is ith row and jth column in matrix B and
+  ->    B(ji) is an element at position (j, i) which is jth row and ith column in matrix B.
+
+
+
+  Symmetric Matrix Example
+
+  3 x 3 Symmetric Matrix Example: 
+           2    0   -1
+  A=       0    3    4
+          -1    4    5 
+
+
+            -1   2    4
+  A[T] =    0    3    4
+            1    0    3

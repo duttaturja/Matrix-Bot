@@ -1,0 +1,13 @@
+						
+                                                IDEMPOTENT MATRIX
+			    	               -------------------
+
+         An idempotent matrix is a matrix which, when multiplied by itself, yields itself.[1][2] That is, the matrix  A   is idempotent if and only if   A^2 = A   For this product   A^2 to be defined,  A must necessarily be a square matrix.  Viewed this way, idempotent matrices are idempotent elements of matrix rings.
+
+  Examples of 2 x 2 idempotent matrices are: 
+
+                            A  =      2   1
+                                      -2  -1
+
+			   A^2 =      1   0
+                                      0    1

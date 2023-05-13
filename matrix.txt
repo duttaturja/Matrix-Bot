@@ -1,0 +1,13 @@
+                                                    MATRIX
+			    	                   --------
+
+         In mathematics, a matrix (plural matrices) is a rectangular array or table of numbers, symbols, or expressions,  arranged in rows and columns, which is used 
+  to represent a mathematical object or a property of such an object.
+  For example,
+               13  8  -9
+               12  7  11
+               20  5  -6
+  is a matrix with three rows and three columns. This is often referred to as a "three by three matrix", a "3x3-matrix",  or a matrix of dimension 3x3.
+
+  Size
+  The size of a matrix is defined by the number of rows and columns it contains. There is no limit to the numbers of      rows and columns a matrix (in the usual sense) can have as long as they are positive integers. A matrix with m rows     and n columns is called an m x n matrix, or m-by-n matrix, while m and n are called its dimensions. For example, the    matrix A above is a 3 x 2 matrix.

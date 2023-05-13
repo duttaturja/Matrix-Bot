@@ -1,0 +1,15 @@
+ 						NILPOTENT MATRIX
+			    	               ------------------
+
+         A nilpotent matrix is a square matrix A such that An = 0. Here k is called the index or exponent of the matrix,  and 0 is a null matrix with the same order as that of matrix A. The matrix multiplication operation is useful to find   if the given matrix is a nilpotent matrix or not. Further, the exponent of a nilpotent matrix is lesser than or equal   to the order of the matrix (n < N).
+
+  Examples of Nilpotent Matrix :
+  An example of 2 x 2 Nilpotent Matrix is
+                                       
+
+				       A =     4 -4
+                                               4 -4
+
+                                      
+				      A^2 =    0  0
+                                               0  0

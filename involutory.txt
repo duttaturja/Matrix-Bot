@@ -1,0 +1,19 @@
+						
+					        INVOLUNTARY MATRIX
+			    	               --------------------
+
+         A square matrix A of order n x n is said to be an involutory matrix if and only if A^2 = I, where I is an        identity matrix of order n x n. As we know that for two matrices A and B if AB = BA = I, then A and B are inverses of   each other. Using the definition of inverse of a matrix, we can say that an involutory matrix is the inverse of         itself. The formula for involutory matrix can also be written as, if A is an involutory matrix, then A = A^-1.
+
+  Some of the examples of involutory matrices are:
+
+  The example of 2 x 2 involutory matrices :
+
+                                               A =    3  5
+                                                     -4  -3
+
+                                              A^2 =   1  0
+                                                      0  1
+ 
+
+  A square matrix A is involutory if and only if A^2 = I or A = A^-1.
+  All involutory matrices of order n are square roots of the identity matrix of order n.

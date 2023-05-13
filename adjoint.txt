@@ -1,0 +1,32 @@
+						
+                                                 ADJOINT MATRIX
+			    	                ----------------
+
+         Let A=[A(ij)] be a square matrix of order n . The adjoint of a matrix A is the transpose of the cofactor matrix  of A . It is denoted by adj A . An adjoint matrix is also called an adjugate matrix.
+  Example:
+
+  Find the adjoint of the matrix.
+
+             3    2   1
+    A=       1   -2   2
+            -1    0  -1
+  To find the adjoint of a matrix, first find the cofactor matrix of the given matrix. Then find the transpose of the     cofactor matrix.
+
+  Cofactor of 3  =  A(1,1)  =    -2    2
+                                  0   -1     =  2
+
+  Cofactor of 1  = A(1,2)   =     -2   1
+                                   0  -1     = 2
+
+
+  Cofactor -1 = A(1,3)      =      2   1
+                                  -2   2     = 6
+
+
+  and so on....
+
+  Now find the transpose of A(ij)
+
+                              2      -1       2
+  adj A=   (Aij)T  =          2      -2      -2
+                              6      -5      -8 

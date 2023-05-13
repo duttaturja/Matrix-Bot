@@ -1,0 +1,16 @@
+						
+                                                INVERSE MATRIX
+			    	               ----------------
+
+         The inverse of matrix is another matrix, which on multiplication with the given matrix gives the multiplicative  identity. For a matrix A, its inverse is A^-1, and A.A-1 = A(-1).A = I, where I is the identity matrix. The matrix      whose determinant is non-zero and for which the inverse matrix can be calculated is called an invertible matrix.
+  For example, the inverse of 
+
+  A =  1  -1           1    1/2
+       0   2    is     0    1/2    as
+
+  ->    A.A^(-1)  = 1  -1       1   1/2        1  0
+                    0   2       0   1/2   =    0  1  = I
+
+
+  ->    A^(-1).A =  1  1/2      1  -1         1  0 
+                    0  1/2      0   2  =      0  1   =  I

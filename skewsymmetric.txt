@@ -1,0 +1,22 @@
+						
+                                              SKEW SYMMETRIC MATRIX
+			    	              ---------------------
+
+         A square matrix B which of size n x n is considered to be a skew symmetric matrix if and only if A[T] =-A. That  is, the transposed form of a skew symmetric or antisymmetric matrix that is equal to the negative of that matrix. This  can be represented as:
+  If A = [A(ij)] n x n is the skew symmetric matrix, then A(ij) = -A(ji) for all i and j or 1 <= i <= n, and 1 <= j <= n  Here, n is any natural number. If we put i = j, then A(ii) = 0 for all i. This means that all elements that are         present diagonally in a skew-symmetric matrix are zero.
+  Let's take an example of a matrix A,
+
+  A=      0   3
+         -3   0
+
+
+  A[T]  =   0  -3
+            3   0 
+  -A=      -0   3
+           -3   0 
+
+  -A=       0   -3
+            3    0
+  Here, we can see that, AT = -A, b12 = -b 21, and
+  
+  b11=b22= 0. Thus, B is a skew symmetric matrix.

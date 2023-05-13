@@ -1,0 +1,21 @@
+                                                NULL MATRIX
+			    	               -------------
+
+
+         Null Matrix is a matrix having zero as each of its elements. The null matrix is also called a zero matrix, and   it can have different numbers of rows and columns. The addition of a null matrix to any matrix results in the same      matrix, and hence a null matrix is also called the additive identity of the given matrix.
+
+  Let us learn more about the properties of the null matrix, with examples :
+
+
+  Zero matrix of order 2 x 2 -> A2,2 =
+                                                  0  0
+                                         A=       0  0
+
+  Zero matrix of order 2 x 3 -> A2,3 =
+                                                  0  0  0 
+                                         A=       0  0  0
+
+  Zero matrix of order 3 x 3 -> A3,3 =
+                                                  0  0  0
+                                         A=       0  0  0
+                                                  0  0  0
